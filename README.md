@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/53399843/151176114-0b228461-35ab-4e54-91b4-3bcb081d6992.jpg" width="100%" height=400 alt="my banner">
-  <h3 align="center">:octocat: Hello, I'm Aman :wave:</h3>
+  <h1 align="center">:octocat: Hello, I'm Aman :wave:</h1>
   <h2 align="center">I'm an aspiring full-stack web developer :computer:</h2>
   
   <p>I'm a computer enthuasiast. I love creating websites and I love to explore emerging web techonologies like blockchain.</p>
