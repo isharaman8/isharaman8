@@ -6,12 +6,17 @@
   <p>I'm a computer enthuasiast. I love creating websites and I love to explore emerging web techonologies like blockchain.</p>
   
   <h3>:handshake: connect with me</h3>
-  <div style="display: flex;">
-    
-  </div>
-</p>
-
-
+  <a href="https://www.linkedin.com/in/aman-kumar-71b655158/">
+    <img align="left" src="https://raw.githubusercontent.com/isharaman8/isharaman8/main/images/linkedin.svg" alt="Aman | LinkedIn" width="25px"/>
+  </a>
+   <a href="https://www.instagram.com/isharaman8/">
+    <img align="left" src="https://raw.githubusercontent.com/isharaman8/isharaman8/main/images/instagram.svg" alt="Aman | Instagram" width="25px"/>
+  </a>
+   <a href="https://twitter.com/aman1234554321">
+    <img align="left" src="https://raw.githubusercontent.com/isharaman8/isharaman8/main/images/twitter-svgrepo-com.svg" alt="Aman | Twitter" width="25px"/>
+  </a>
+   
+<br>
 <h2> :pencil: Technical Skills</h2>
 
 <div style="display: flex;">
