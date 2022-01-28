@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/53399843/151502397-5ad41c5f-465e-4e8f-a79d-f8a7fd4cb244.png" width="100%" height=290 alt="my banner">
+  <img src="https://user-images.githubusercontent.com/53399843/151502397-5ad41c5f-465e-4e8f-a79d-f8a7fd4cb244.png" width="100%" height=200 alt="my banner">
   <h1 align="center">:octocat: Hello, I'm Aman :wave:</h1>
   <h2 align="center">I'm an aspiring full-stack web developer :computer:</h2>
   
