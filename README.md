@@ -38,6 +38,6 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-<h2>Github Stats</h2>
+<h2>:clipboard: Github Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=isharaman8&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isharaman8&layout=compact" />
