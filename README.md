@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/53399843/151502397-5ad41c5f-465e-4e8f-a79d-f8a7fd4cb244.png" width="100%" height=200 alt="my banner">
+  <img src="https://user-images.githubusercontent.com/53399843/151502397-5ad41c5f-465e-4e8f-a79d-f8a7fd4cb244.png" width="100%" height="auto" alt="my banner">
   <h1 align="center">:octocat: Hello, I'm Aman <img src="https://user-images.githubusercontent.com/53399843/153120547-3254915a-7e42-41be-820c-91c1559b8354.gif"  height="40" width="40px"/></h1>
   <h2 align="center">An aspiring full-stack web developer :computer:</h2>
   
