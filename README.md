@@ -15,6 +15,9 @@
    <a href="https://twitter.com/aman1234554321">
     <img align="left" src="https://raw.githubusercontent.com/isharaman8/isharaman8/main/images/twitter-svgrepo-com.svg" alt="Aman | Twitter" width="25px"/>
   </a>
+  <a href="https://www.reddit.com/user/dusty_world_666">
+    <img align="left" src="https://user-images.githubusercontent.com/53399843/168517860-8922b3f1-ef06-42b5-b7f9-d21c40c654e1.png" alt="Aman | Reddit" width="25px" />
+  </a>
    
 <br>
 <h2> :pencil: Technical Skills</h2>
