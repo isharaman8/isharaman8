@@ -56,5 +56,8 @@
 </div>
 
 <h2>:clipboard: Github Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=isharaman8&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isharaman8&layout=compact" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=isharaman8&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isharaman8&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isharaman8&theme=react" />
+
